@@ -9,5 +9,12 @@ public class SeleniumTest {
 	{
 		System.out.println("Web Automation testing");
 	}
+	
+	@Test
+	public void webApplication2()
+	{
+		System.out.println("Web Automation testing");
+	}
+
 
 }
