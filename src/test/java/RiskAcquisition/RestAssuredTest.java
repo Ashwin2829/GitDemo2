@@ -12,5 +12,15 @@ public class RestAssuredTest {
 		System.out.println("PostJIRA Test");
 		System.out.println("PostJIRA Test");
 	}
+	
+	@Test
+	public void postJira1()
+	{
+		System.out.println("PostJIRA Test");
+		System.out.println("PostJIRA Test");
+		System.out.println("PostJIRA Test");
+		System.out.println("PostJIRA Test");
+		System.out.println("PostJIRA Test");
+	}
 
 }

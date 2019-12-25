@@ -17,5 +17,14 @@ public class AppiumTest {
 		System.out.println("I OS Test");
 		System.out.println("I OS Test");
 	}
+	
+	@Test
+	public void androidTest2()
+	{
+		System.out.println("Android Test");
+		System.out.println("Android Test");
+		System.out.println("Android Test");
+	}
+	
 
 }
