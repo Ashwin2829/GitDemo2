@@ -9,6 +9,8 @@ public class RestAssuredTest {
 		System.out.println("PostJIRA Test");
 		System.out.println("PostJIRA Test");
 		System.out.println("PostJIRA Test");
+		System.out.println("PostJIRA Test");
+		System.out.println("PostJIRA Test");
 	}
 
 }
