@@ -7,6 +7,8 @@ public class RestAssuredTest {
 	public void postJira()
 	{
 		System.out.println("PostJIRA Test");
+		System.out.println("PostJIRA Test");
+		System.out.println("PostJIRA Test");
 	}
 
 }
